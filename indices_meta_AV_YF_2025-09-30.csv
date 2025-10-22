@@ -1,0 +1,42 @@
+Ticker,Type,Universe,Label
+SPY,equity,A,S&P 500 (US)
+ONEQ,equity,A,Nasdaq Composite (proxy)
+QQQ,equity,A,Nasdaq-100 (US)
+DIA,equity,A,Dow Jones 30 (US)
+VTI,equity,A,US Total Market
+RSP,equity,A,S&P 500 Equal-Weight
+MDY,equity,A,S&P 400 Midcap
+IJR,equity,A,S&P 600 Smallcap
+VTV,equity,A,US Value
+VUG,equity,A,US Growth
+USMV,equity,A,US Min Vol
+QUAL,equity,A,US Quality
+MTUM,equity,A,US Momentum
+VNQ,equity,A,US REITs
+VGK,equity,B,Europe Broad
+IEUR,equity,B,Europe Broad (alt.)
+EZU,equity,B,Eurozone Broad
+FEZ,equity,B,Euro Stoxx 50
+DAX,equity,B,DAX Germany (proxy)
+EWG,equity,B,Germany
+EWQ,equity,B,France
+EWU,equity,B,UK
+EWL,equity,B,Switzerland
+EWN,equity,B,Netherlands
+EWD,equity,B,Sweden
+EWP,equity,B,Spain
+EWI,equity,B,Italy
+IEUS,equity,B,Europe Small-Cap
+EUMV,equity,B,Europe Min Vol
+ICLN,equity,C,Clean Energy
+TAN,equity,C,Solar
+GLD,equity,C,Gold
+DBC,equity,C,Broad Commodities
+USO,equity,C,WTI Oil
+UNG,equity,C,Natural Gas
+CPER,equity,C,Copper
+BITW,equity,C,Bitwise 10 Crypto Index Fund (proxy)
+BTC,crypto,C,Bitcoin
+ETH,crypto,C,Ethereum
+US10Y,treasury,C,US 10Y Yield
+CRYPTO_EQ,crypto,C,BTC/ETH Equal-Weight Index (100=base)
